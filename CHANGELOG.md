@@ -1,6 +1,7 @@
 # Changelog
 
 ## [Unreleased]
+[ENH] updated add_column function witll automatically fill remaining, the user no longer needs to sue the fill_remaining parameter.
 
 ## [v0.32.1] - 2025-11-06
 
